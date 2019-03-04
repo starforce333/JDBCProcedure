@@ -1,7 +1,7 @@
 import java.sql.*;
 
 public class Main {
-    static final String DB_CONNECTION = "jdbc:mysql://localhost:3306/testproc?serverTimezone=Europe/Kiev&useSSL=false";
+    static final String DB_CONNECTION = "jdbc:mysql://localhost:3306/testproc?serverTimezone=Europe/Kiev";
     static final String DB_USER = "star";
     static final String DB_PASSWORD = "password";
 
